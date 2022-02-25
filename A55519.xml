@@ -1,0 +1,549 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pastoral reflection on death a poem.</title>
+            <author>Potenger, John, 1647-1733.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55519</idno>
+            <idno type="STC">Wing P3027</idno>
+            <idno type="STC">ESTC R31943</idno>
+            <idno type="EEBO-CITATION">12277760</idno>
+            <idno type="OCLC">ocm 12277760</idno>
+            <idno type="VID">58536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1511:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pastoral reflection on death a poem.</title>
+                  <author>Potenger, John, 1647-1733.</author>
+               </titleStmt>
+               <extent>4, 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Dring ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to Potenger.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58536:1"/>
+            <pb facs="tcp:58536:1" rendition="simple:additions"/>
+            <p>A Paſtoral Reflection ON DEATH.</p>
+            <p>A POEM.</p>
+            <q xml:lang="lat">
+               <l>—Omnes una manet Nox,</l>
+               <l>Et calcanda ſemel via Lethi.</l>
+               <bibl>Hor.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. Dring,</hi> at the <hi>Harrow</hi> at <hi>Chancery Lane End</hi> next <hi>Fleet-ſtreet.</hi> MDCXCI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58536:2"/>
+            <pb facs="tcp:58536:2"/>
+            <opener>
+               <salute>DEAR NED,</salute>
+            </opener>
+            <p>AN Old Friend is the beſt <hi>Mecaenas,</hi> that makes me chuſe you before any Poetical Lord or Eſquire, and I believe this Reflection will prove too Me<g ref="char:EOLhyphen"/>lancholy for the Town, where Men make it their Buſi<g ref="char:EOLhyphen"/>neſs to forget Mortality. For theſe Reaſons, I have ſent this Poem to you in the Country, where much Leiſure and an honeſt Retirement will permit you to enjoy the Me<g ref="char:EOLhyphen"/>ditation. Nothing here goes off but <hi>Satyr,</hi> for our good natur'd Age, is mightily in love with a <hi>Muſe</hi> that's born with Teeth, though ſuch Births have always been e<g ref="char:EOLhyphen"/>ſteem'd Ominous, and is very fond of Men that come in<g ref="char:EOLhyphen"/>to the World, like Briers to ſcratch and tear all about them. I cannot deny but Obſcenity has its good li<g ref="char:EOLhyphen"/>king: But I ſhould be very unwilling to make my Court that way, for I am much of the <hi>Spaniſh</hi> Ladys Mind, who dreaded to be delivered down to Poſterity for a Whore, though to a King. You had not been troubled with this <hi>Poem</hi> in Print, if moſt of it had not been put out before in a Book of <hi>Miſcellanies,</hi> but it was ſo blemiſhed by the Preſs, that its ill uſage moved the Compaſſion of Strangers, which encouraged me to reſcue it from its Deformity, and to add a ſecond Part. But after all, if it will divert you when you want a News-Letter or a <hi>Gazette,</hi> it is as much as is expected by</p>
+            <closer>
+               <salute>Dear Ned,</salute> 
+               <signed>Yours.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:58536:3"/>
+            <pb n="1" facs="tcp:58536:3"/>
+            <head>A Paſtoral Reflection ON DEATH.</head>
+            <stage>
+               <hi>Strephon</hi> and <hi>Damon.</hi>
+            </stage>
+            <lg>
+               <l>BEneath a gloomy Yews unhealthy Shade,</l>
+               <l>Whoſe noxious Covert's ſhun'd by Bird and Beaſt,</l>
+               <l>The wretched <hi>Damon</hi> lay with Arms a-croſs</l>
+               <l>His labouring Breaſt, quick like a ſickly Pulſe,</l>
+               <l>His Heart with Paſſion ſeem'd to throb and beat,</l>
+               <l>Out of his half-clos'd Eyes there ſtole a Tear</l>
+               <l>Along the Sallow Furrows of his Cheeks,</l>
+               <l>The deep ingraven Characters of Grief.</l>
+               <l>The Pipe which he with Tuneful Breath inſpir'd,</l>
+               <l>And made the Vocal Organ of his Lays,</l>
+               <l>Fell broke, and ſilent, by the dire effect</l>
+               <l>Of raging Sorrow, for in that was loſt</l>
+               <l>The Wonder and Delight of all the Plains.</l>
+            </lg>
+            <lg>
+               <l>As <hi>Strephon</hi> chanc'd to ſhape his Courſe that way,</l>
+               <l>
+                  <pb n="2" facs="tcp:58536:4"/>
+In Queſt of two loſt Ewes that lately ſtray'd,</l>
+               <l>He ſpy'd the Shepherd ſtretch'd upon the Ground.</l>
+               <l>Amaz'd at the ſad ſpectacle of Woe,</l>
+               <l>He ſilent ſtood; then, <hi>Damon, Damon,</hi> cry'd;</l>
+               <l>When thus provoked, he rais'd his weary Head,</l>
+               <l>That ſtreight recoil'd, and gently ſunk to reſt,</l>
+               <l>At laſt with's <hi>Elbow</hi> pillow'd from the Ground,</l>
+               <l>He gave Attention to his Speaking Friend.</l>
+            </lg>
+            <sp>
+               <speaker>STREPHON.</speaker>
+               <l>What makes my <hi>Damon</hi> ſecretly Retire?</l>
+               <l>Reſolv'd in private to poſſeſs his Grief,</l>
+               <l>When <hi>Damon's</hi> Sheep require their <hi>Damons</hi> Care?</l>
+               <l>Laſt Night I heard the Wolves run howling by,</l>
+               <l>With their fierce Eyes devouring all our Flocks,</l>
+               <l>Their Fear above their Hunger ſcarce prevail'd;</l>
+               <l>For two Lambs in my view they almoſt ſeiz'd.</l>
+               <l>In yonder Village too, I heard this Day,</l>
+               <l>That Thieves have lately viſited our Folds.</l>
+               <l>Riſe <hi>Damon,</hi> riſe, and leave thy Cares behind.</l>
+            </sp>
+            <sp>
+               <speaker>DAMON.</speaker>
+               <l>All this will not provoke my Diligence;</l>
+               <l>For far more rav'nous <hi>Wolves</hi> have ſeiz'd on me,</l>
+               <l>And make my panting Heart their wretched Prey,</l>
+               <l>That vainly ſtrives to ſhift the cruel Pain.</l>
+               <l>My Breaſt was nev'r infeſted with <hi>wild Care</hi>
+               </l>
+               <l>
+                  <pb n="3" facs="tcp:58536:4"/>
+As long as dear <hi>Myrtillo</hi> liv'd, whoſe <hi>Charms</hi>
+               </l>
+               <l>Cou'd calm the rougheſt <hi>Tempeſt</hi> of my Mind.</l>
+               <l>A diſcontinu'd Sun-ſhine I enjoy'd,</l>
+               <l>Till dear <hi>Myrtillo</hi> ſet in his dark Grave.</l>
+               <l>Now there's no lucid Interval of Peace,</l>
+               <l>Or pauſe of <hi>Quiet</hi> to my troubled <hi>Mind.</hi>
+               </l>
+               <l>Sad Death muſt be the Period of my Woe</l>
+               <l>And Life, then <hi>Damon,</hi> like <hi>Myrtillo,</hi> Dye.</l>
+            </sp>
+            <sp>
+               <speaker>STREPHON.</speaker>
+               <l>Thy Soul, <hi>fond Shephard,</hi> is with Paſſion craz'd,</l>
+               <l>And thy diſtemper'd Reaſon falſly takes</l>
+               <l>The dreadful <hi>King of Terrors</hi> for thy Friend;</l>
+               <l>Shou'd he but lay his Icy Hand on thee,</l>
+               <l>Affrighted <hi>Nature</hi> would recant the wiſh</l>
+               <l>Which you in Trouble made with too much haſte;</l>
+               <l>And like the Graſs before the Mowers Sythe,</l>
+               <l>Wou'd bending, try to 'ſcape the <hi>fatal Stroke.</hi>
+               </l>
+               <l>If <hi>Death</hi>'s ſo pleaſant, why ſhou'd you lament</l>
+               <l>
+                  <hi>Myrtillo's</hi> Fate?</l>
+            </sp>
+            <sp>
+               <speaker>DAMON.</speaker>
+               <l>Alas! the lovely Youth</l>
+               <l>Wou'd willingly have ſuffer'd tedious Life.</l>
+               <l>The ſtrong <hi>Convulſions</hi> of his Friendſhip were</l>
+               <l>More fierce than the laſt Agonies of Death;</l>
+               <l>His parting Soul by ling'ring here below,</l>
+               <l>
+                  <pb n="4" facs="tcp:58536:5"/>
+Did ſeem to catch at <hi>Life</hi> to ſtay with me.</l>
+               <l>But when reſiſtleſs <hi>Fate</hi> had ſummon'd him,</l>
+               <l>He kindly fix'd his cloſing Eyes on mine,</l>
+               <l>Then beckon'd me to follow to the Grave.</l>
+               <l>This makes me think 'tis no hard Task to Dye,</l>
+               <l>For harmleſs Shepherds, whoſe unſpotted Lives</l>
+               <l>Are innocent, as are the Flocks they feed.</l>
+               <l>Fear is but the Reſult of Guilt.</l>
+            </sp>
+            <sp>
+               <speaker>STREPHON.</speaker>
+               <l>I Know</l>
+               <l>
+                  <hi>Death</hi> has his <hi>Terrors</hi> chiefly from our <hi>Crimes,</hi>
+               </l>
+               <l>And <hi>Vertue</hi> can diſarm the <hi>Gaſtly Foe;</hi>
+               </l>
+               <l>Yet <hi>Nature</hi> too ſtill fears to be diſſolv'd,</l>
+               <l>Like tender <hi>Lambs</hi> that dread the <hi>Butcher's Knife,</hi>
+               </l>
+               <l>Although they nothing fear beyond the <hi>Blow<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>For who can boaſt a perfect <hi>Innnocence,</hi>
+               </l>
+               <l>Or run the nimble Race of humane Life,</l>
+               <l>Always along a ſpotleſs milky-way?</l>
+               <l>There's no ſuch Path but in the Heavens above,</l>
+               <l>VVhich we at Penning-time ſo plainly ſee.</l>
+               <l>Methinks I tremble whilſt I talk of <hi>DEATH,</hi>
+               </l>
+               <l>Am almoſt frighted with my own Diſcourſe.</l>
+               <l>Thus I anticipate the <hi>Fatal Hour</hi>
+               </l>
+               <l>That muſt ſnatch me from chaſt <hi>Dorinda's</hi> Arms,</l>
+               <l>And the dear Pledges of our Mutual Love.</l>
+               <l>
+                  <pb n="5" facs="tcp:58536:5"/>
+When I am Dead, who'll teach my lovely <hi>Boys</hi>
+               </l>
+               <l>To uſe the <hi>Hook,</hi> or help the <hi>labouring Ewe?</hi>
+               </l>
+               <l>
+                  <hi>Dorinda,</hi> with my <hi>Boys,</hi> and <hi>Sheep,</hi> muſt all</l>
+               <l>Be left a Prey to <hi>Man,</hi> who ſtill to Man</l>
+               <l>Proves the moſt ſavage VVolf. The ſtrong</l>
+               <l>VVorry the weak, remorſleſs Avarice,</l>
+               <l>Urging the hungry Miſer to Oppreſs,</l>
+               <l>And wild <hi>Ambition</hi> Treads upon the Poor,</l>
+               <l>Bad footing ſure; and that which will ſubvert</l>
+               <l>But ill-laid Greatneſs of aſpiring Man.</l>
+               <l>Such Thoughts as theſe <hi>Myrtillo</hi> had, when Life</l>
+               <l>Did, as you ſay, ſeem pleaſing to the Youth.</l>
+            </sp>
+            <sp>
+               <speaker>DAMON.</speaker>
+               <l>VVhy wou'd you abrogate my firm Reſolve,</l>
+               <l>And with thoſe Fears repeal the thoughts of <hi>Death?</hi>
+               </l>
+               <l>Did you but know how ſweetly they Repoſe</l>
+               <l>On Beds of Earth that are Lodg'd under Ground.</l>
+               <l>Uninterrupted Reſt they all enjoy,</l>
+               <l>And with the want of Life are beſt by <hi>Death:</hi>
+               </l>
+               <l>They but Retreat to a far greater VVorld.</l>
+               <l>For how few tread the Surface of the Globe,</l>
+               <l>Compar'd to crowding Colonies that Fate</l>
+               <l>Sends daily to the Bowels of the Earth,</l>
+               <l>That has been peopling ever ſince <hi>old Time</hi>
+               </l>
+               <l>Commenc'd the Subterranean Univerſe,</l>
+               <l>Still gapes to ſwallow down the upper VVorld.</l>
+               <l>But when my Body's earthen Pitcher's broke</l>
+               <l>
+                  <pb n="6" facs="tcp:58536:6"/>
+By Nature's ſtroke, or Fortune's random blow;</l>
+               <l>My Soul, like <hi>Gideon's</hi> Lamp, from its crack'd Urn,</l>
+               <l>Shall Death's <hi>Black Night</hi> turn to <hi>Eternal Day;</hi>
+               </l>
+               <l>For all the Spots of my poor ſullied Soul</l>
+               <l>Shall be waſh'd off by Heavens Eternal Lamb,</l>
+               <l>VVhoſe tender Veins ſpouted a <hi>Bath of Blood,</hi>
+               </l>
+               <l>(The ſacred Laver of all faithful Swains.)</l>
+               <l>I well remember dear <hi>Mirtillo's</hi> Song</l>
+               <l>With which he us'd to chear his doubtful Soul</l>
+               <l>Before ſhe took her laſt Eternal Flight.</l>
+            </sp>
+            <div type="ode">
+               <head>A Penitential ODE.</head>
+               <div n="1" type="part">
+                  <lg n="1">
+                     <head>I.</head>
+                     <l>TEar off the Strings, undreſs the ſpeaking Lyre,</l>
+                     <l>Let nought but Groans her Breaſt inſpire,</l>
+                     <l>Her Grief all common Sorrow muſt ſurpaſs,</l>
+                     <l>For ſhe, Alas!</l>
+                     <l>Her Maſters Crimes muſt now bewail,</l>
+                     <l>In ſounds, I hope, that will prevail.</l>
+                     <l>In well-ſet <hi>Sighs,</hi> and <hi>Tears,</hi> I'll try</l>
+                     <l>(Such Waters will befriend their Harmony)</l>
+                     <l>To make my <hi>Penitential MELODY.</hi>
+                     </l>
+                     <l>At my firſt Groan kind <hi>Angels</hi> Sing,</l>
+                     <l>Glad of my <hi>Pious Suffering.</hi>
+                     </l>
+                     <l>For whilſt I <hi>Weep,</hi> whilſt I <hi>Lament,</hi>
+                     </l>
+                     <l>In <hi>Songs</hi> they welcome home the <hi>hopeful Penitent.</hi>
+                     </l>
+                  </lg>
+                  <lg n="2">
+                     <pb n="7" facs="tcp:58536:6"/>
+                     <head>II.</head>
+                     <l>For what <hi>Crime</hi> ſhall my firſt <hi>Tear</hi> fall?</l>
+                     <l>O! not for <hi>One, Lord,</hi> but for <hi>All.</hi>
+                     </l>
+                     <l>For my <hi>Firſt-born Iniquity,</hi>
+                     </l>
+                     <l>That had Its <hi>Birth</hi> into the <hi>World</hi> with me?</l>
+                     <l>In Eight Days time that <hi>Monſter</hi> Dead was found,</l>
+                     <l>In my <hi>Baptiſmal Font</hi> the <hi>Fatal Twin</hi> was Drown'd.</l>
+                     <l>For my gray long-liv'd Errors that engage</l>
+                     <l>My eaſie Youth, my ſtubborn Age,</l>
+                     <l>My <hi>Tears</hi> ſhall flow, and try</l>
+                     <l>To ſlay the num'rous <hi>Progeny,</hi>
+                     </l>
+                     <l>That like their Parent, they may in the Waters Dye.</l>
+                     <l>But if they ride</l>
+                     <l>In Triumph, on that weaker Tide,</l>
+                     <l>I'll borrow an auxiliary Flood</l>
+                     <l>Of our great <hi>Shepherds precious Blood.</hi>
+                     </l>
+                     <l>VVith that <hi>reſiſtleſs Torrent</hi> I'll confound</l>
+                     <l>Th' <hi>Egyptian Hoſt</hi> of <hi>Sin</hi> in that <hi>Red-Sea</hi> they're drown'd,</l>
+                  </lg>
+                  <lg n="3">
+                     <head>III.</head>
+                     <l>Bring all her <hi>Strings,</hi> new dreſs the <hi>ſpeaking Lyre,</hi>
+                     </l>
+                     <l>And with glad <hi>Notes</hi> her <hi>Breaſt</hi> inſpire,</l>
+                     <l>E're ſhe is ready, let it not be long,</l>
+                     <l>The great <hi>JEHOVA</hi> claims her <hi>Song:</hi>
+                     </l>
+                     <l>See how her <hi>Strings</hi> about my Fingers croud,</l>
+                     <l>And how they preſs to tell my <hi>Joy</hi> aloud.</l>
+                     <l>As jointly we <hi>Rejoice,</hi>
+                     </l>
+                     <l>The Heavens, and Earth, reflect the Image of our Voice.</l>
+                  </lg>
+                  <sp>
+                     <pb n="8" facs="tcp:58536:7"/>
+                     <speaker>STREPHON.</speaker>
+                     <l>When you ſhall tread the confines of the Grave,</l>
+                     <l>And your Soul is to a ſtrange <hi>ſomwhere</hi> bound,</l>
+                     <l>(For <hi>Nature</hi> ſtill will combate lively <hi>Faith</hi>)</l>
+                     <l>Tis great Relief to have ſuch chearful hopes</l>
+                     <l>'That will repreſs the Horrors of the Mind:</l>
+                     <l>We only by the Opticks of our <hi>Fatith</hi>
+                     </l>
+                     <l>Can travel to the <hi>Promis'd Land</hi> above.</l>
+                     <l>Yet we muſt not precipitate our <hi>Fate,</hi>
+                     </l>
+                     <l>But wait Heaven's Leaſure, therefore (<hi>Damon</hi> pray)</l>
+                     <l>For my ſake Live to Night, to Morrow Dye.</l>
+                  </sp>
+               </div>
+               <div n="2" type="part">
+                  <head>The Second Part.</head>
+                  <l>THE faithful Shepherds Care renews with Day,</l>
+                  <l>Early as Light he quits his honeſt Reſt;</l>
+                  <l>No <hi>Goblins,</hi> made by Fancy, haunt his ſleep,</l>
+                  <l>Or luſtful Heats provoke his <hi>wanton Blood.</hi>
+                  </l>
+                  <l>Perhaps his <hi>Phyllis</hi> dances ov'r his Mind,</l>
+                  <l>Or ſome lov'd <hi>Lamb</hi> plays in his harmleſs Thought,</l>
+                  <l>And thus repeats the pleaſure of the Day.</l>
+                  <l>As freſh and pure as Morn young <hi>Strephon</hi> roſe</l>
+                  <l>To tend his <hi>Flocks,</hi> that then ſtood bleating ov'r</l>
+                  <l>Their empty Cribs. But <hi>Damon's</hi> pungent Grief</l>
+                  <l>Had made him come now earlier to the Plain.</l>
+                  <l>When all things elſe are ſilent, and at reſt,</l>
+                  <l>His watchful Cares prevent his wiſh'd Repoſe,</l>
+                  <l>For his too faithful Memory recalls</l>
+                  <l>
+                     <pb n="9" facs="tcp:58536:7"/>
+Each former Grief, and makes him once again</l>
+                  <l>Diſtinctly ſuffer paſt Calamities.</l>
+                  <l>
+                     <hi>Myrtillo</hi> dyes a Thouſand times a Night,</l>
+                  <l>And he with Tears as oft bedews his Herſe.</l>
+                  <l>He, by the wretched Witchcraft of his Woe,</l>
+                  <l>With blubber'd Eyes had faſcinated's <hi>Flock.</hi>
+                  </l>
+                  <l>When <hi>Strephon</hi> had ſurvey'd the ſad eſtate</l>
+                  <l>Of Sheep and Shepherd, with a gentle Sigh,</l>
+                  <l>He thus began their Morning Dialogue.</l>
+                  <sp>
+                     <speaker>STREPHON.</speaker>
+                     <l>
+                        <hi>Damon,</hi> I thank you, ſince at my Requeſt</l>
+                     <l>You to the ſhort Accompt of Life this Day</l>
+                     <l>Have added, but an Earneſt given, I hope,</l>
+                     <l>Of more.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <p>Alas! <hi>Myrtillo</hi> ſtill is Dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>STREPHON.</speaker>
+                     <l>'Tis true, and he has rech'd the peaceful ſhore</l>
+                     <l>Of t'other World, where he diſſolving lies</l>
+                     <l>In <hi>Hallelujas,</hi> whilſt our trembling Ears,</l>
+                     <l>The Trumpet, Drum, all the mad din of War,</l>
+                     <l>Wound, the ſad Preludes of enſuing Fate,</l>
+                     <l>The dying Groans of a diſtemper'd State.</l>
+                     <l>The Wolf was the ſole Rapperee we fear'd.</l>
+                     <l>Now the more rav'nous humane Beaſts of Prey,</l>
+                     <l>Train'd up in Slaughter, Rapine, Perfidy,</l>
+                     <l>Bold Martial <hi>Satyrs,</hi> hot with Rage and Luſt</l>
+                     <l>Will Butcher all our Flocks. Nor Age, nor Sex,</l>
+                     <l>
+                        <pb n="10" facs="tcp:58536:8"/>
+Will ſcape the fury of their double Heat.</l>
+                     <l>Wild deſolation marches ſtill with War.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <l>Is this your invitation to long Life?</l>
+                     <l>Sure then 'tis beſt ſtreight to intrench in Duſt,</l>
+                     <l>They can't beat up my Charters in the Grave,</l>
+                     <l>Or rudely Bomb my humble Sepulcher;</l>
+                     <l>Nor can they pilfer my ſtript Souls caſt Cloths,</l>
+                     <l>Safely lock'd up in a deep ſleep by <hi>Death,</hi>
+                     </l>
+                     <l>Till the laſt <hi>Trump's</hi> enlivening ſound ſhall raiſe</l>
+                     <l>The Sluggard that has ſlept for Ages paſt.</l>
+                     <l>You did not quite compleat the Catalogue</l>
+                     <l>Of Miſeries that threaten tedious Life.</l>
+                     <l>See how the Storms beat on the Churches Ark,</l>
+                     <l>For many fierce <hi>Euroclydons</hi> now blow</l>
+                     <l>On the ſmall Ship that wafts the Gentile Church.</l>
+                     <l>But ſtill, I hope, ſhe'll ride the angry VVave,</l>
+                     <l>That by its Motion mounts her higher Heaven.</l>
+                  </sp>
+                  <sp>
+                     <speaker>STREPHON.</speaker>
+                     <lg>
+                        <l>You know there's not ſecurity againſt</l>
+                        <l>That Wind that bears a <hi>Tempeſt</hi> in its Name,</l>
+                        <l>By leaping over-board; then <hi>Damon,</hi> bear</l>
+                        <l>A Mind impregnable againſt th' Aſſaults</l>
+                        <l>Of Fate, or Chance; nor ſuffer black <hi>Deſpair</hi>
+                        </l>
+                        <l>To add more Clouds to the dark lowring Sky.</l>
+                        <l>When <hi>Death</hi> ſhall Summon all its ſullen <hi>Train,</hi>
+                        </l>
+                        <l>And grow more dreadful by that Circumſtance.</l>
+                        <l>
+                           <pb n="11" facs="tcp:58536:8"/>
+Then ſtand erect under thy adverſe <hi>Fate</hi>
+                        </l>
+                        <l>And neither <hi>Fear,</hi> or <hi>Wiſh,</hi> to breath laſt.</l>
+                        <l>As our <hi>Great Sidney,</hi> that <hi>Arcadian</hi> Swain,</l>
+                        <l>That always won the Prizes of the Plain,</l>
+                        <l>Puſh'd on by Honour to his early <hi>Fate,</hi>
+                        </l>
+                        <l>Appeas'd the mortal Anguiſh of his Wound</l>
+                        <l>With Muſick: I confirm my labouring Soul</l>
+                        <l>With this ſhort Lay, in my Lifes dark Eclips.</l>
+                     </lg>
+                     <lg>
+                        <l>What makes my Soul to linger here,</l>
+                        <l>And but to quit her Priſon fear,</l>
+                        <l>Cram'd full of anxious Thoughts and Cares?</l>
+                        <l>(She hugs the Load ſo ill ſhe bears.)</l>
+                        <l>Vice makes us tremble when we <hi>Dye,</hi>
+                        </l>
+                        <l>But <hi>Virtue</hi> baffles <hi>Deſtiny.</hi>
+                        </l>
+                        <l>Who here a <hi>Virtuous</hi> Life has paſt,</l>
+                        <l>May, without Sighing, Breath his laſt.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>DAMON.</speaker>
+                     <lg>
+                        <l>'Tis hard to tread the <hi>Strait,</hi> but <hi>narrow Path</hi>
+                        </l>
+                        <l>Of <hi>Vertue,</hi> for diſtorted <hi>Fleſh and Blood.</hi>
+                        </l>
+                        <l>Fond Love wryth's Youth, Ambition warps old Age,</l>
+                        <l>The luſt of Power: Nay, all the lawleſs crew</l>
+                        <l>Of Paſſions, the vile Rabble of the Mind,</l>
+                        <l>Still maks an uproar in the little World,</l>
+                        <l>Their lawful Sovereign, Reaſon, to <hi>Depoſe.</hi>
+                        </l>
+                        <l>But now, I hope, ſhe'll re-aſcend her <hi>Throne</hi>
+                        </l>
+                        <l>By <hi>Right Divine.</hi> Propitious Queen of Man!</l>
+                        <l>Heaven puts the Scepter in thy equal Hand,</l>
+                        <l>
+                           <pb n="12" facs="tcp:58536:9"/>
+Exert thy <hi>Power,</hi> long be thy <hi>boundleſs Sway,</hi>
+                        </l>
+                        <l>And let me have the pleaſure to <hi>OBEY.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58536:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
